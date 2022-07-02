@@ -8,16 +8,20 @@
 - :school: I am a student of `Masters of Computer Application` at GLS University, Ahmedabad  
 - :technologist: I love using Softwares as a solution to every `Problem`
 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [my resume](https://drive.google.com/file/d/1L_cqeoD0dQXzAlpymvqIEvNYRG6FXlR2/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
 
-## Tech Stack
+## :hotsprings: Tech Stack
 - :earth_asia: HTML | CSS | JS | Bootstrap
 - :elephant: PHP
 - :snake: Python
 - :coffee: Java
+
+## :smirk_cat: The Best Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandanpatell&repo=StockinfoBot-Telegram&theme=dracula)](https://github.com/VandanPatell/StockinfoBot-Telegram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vandanpatell&repo=FeesPaymentUsingBlockchain&theme=dracula)](https://github.com/VandanPatell/FeesPaymentUsingBlockchain)
 
 <!--
 **VandanPatell/VandanPatell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
