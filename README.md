@@ -12,7 +12,7 @@
 - :school: I am a student of `Masters of Computer Application` at GLS University, Ahmedabad  
 - :technologist: I love using Softwares as a solution to every `Problem`
 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [my resume](https://drive.google.com/file/d/1L_cqeoD0dQXzAlpymvqIEvNYRG6FXlR2/view?usp=sharing).
+- :thinking: I’m currently open for: a new `job opportunity`, this is [my resume](https://drive.google.com/file/d/1L_cqeoD0dQXzAlpymvqIEvNYRG6FXlR2/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
